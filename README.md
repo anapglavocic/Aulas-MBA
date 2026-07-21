@@ -1,7 +1,9 @@
 # Aulas-MBA
 
-# Coleta de Dados: Crawlers e Web Scraping
-script_colab_coleta_dados.ipynb
+# Coleta de Dados: 
+- Crawlers
+- Web Scraping
+- Text Mining
+- Sentiment Analysis
+- NLP I
 
-# Text Mining, Sentiment Analysis e NLP I
-script_colab_coleta_dados.ipynb
